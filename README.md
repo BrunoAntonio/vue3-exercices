@@ -1,2 +1,1 @@
-# vue3
-vu3 exercices
+# vu3 exercices
